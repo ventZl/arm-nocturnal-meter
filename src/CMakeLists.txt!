@@ -1,0 +1,5 @@
+set(onewire_SRCS ow.c)
+add_application(onewire ${onewire_SRCS})
+target_link_libraries(onewire ${LIBOPENCM3})
+
+

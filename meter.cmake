@@ -1,0 +1,3 @@
+set(DEVICE "STM32L152RBT6")
+
+set(BARE_METAL 1)

@@ -1,0 +1,9 @@
+[submodule "FirmwareUtils"]
+	path = FirmwareUtils
+	url = https://github.com/ventZl/FirmwareUtils.git
+[submodule "libopencm3"]
+	path = libopencm3
+	url = https://github.com/libopencm3/libopencm3.git
+[submodule "cmrx"]
+	path = cmrx
+	url = git@github.com:ventZl/cmrx.git
